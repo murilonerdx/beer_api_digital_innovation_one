@@ -1,4 +1,4 @@
-package com.digitalinnovation.beerapi.entity;
+package com.digitalinnovation.beerapi.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
